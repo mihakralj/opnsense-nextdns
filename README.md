@@ -2,7 +2,7 @@
 
 This plugin depends on port package of nextdns that is available through a community repo.
 
-1. Install community repo:
+1. (If you don't have it yet), install community repo:
 
 `fetch -o /usr/local/etc/pkg/repos/mimugmail.conf https://www.routerperformance.net/mimugmail.conf
 pkg update`
