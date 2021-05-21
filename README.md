@@ -9,8 +9,8 @@ pkg update`
 
 2. install the NextDNS plugin:
 
-`sudo pkg add https://github.com/mihakralj/opnsense-nextdns/blob/main/os-nextdns-community-devel-0.3.txz`
+`pkg add https://github.com/mihakralj/opnsense-nextdns/raw/main/os-nextdns-community-devel-0.3.txz`
 
 3. remove the NextDNS plugin:
 
-`sudo pkg remove os-nextdns-community-devel`
+`pkg remove os-nextdns-community-devel`
